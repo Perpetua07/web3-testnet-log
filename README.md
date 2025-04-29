@@ -15,10 +15,6 @@ Welcome to my personal log of Web3 airdrops, testnets, and dApp experiments. I'm
 | StarkNet       | Testnet    | 0xdBA7D859e551426d100A4baFDcF46f6BC509Ad3c | Joined         |
 | Base           | Airdrop    | 0xdBA7D859e551426d100A4baFDcF46f6BC509Ad3c | Completed      |
 
-## 🔐 Wallet Addresses (for verification)
-- **EVM (Ethereum/Polygon/BSC/etc.):** `0xYourEVMwalletHere`
-- **Solana:** `YourSolanaAddress`
-- **StarkNet:** `YourStarkNetAddress`
 
 ## 🧪 Recent Activity
 - Submitted feedback to Peniwallet (April 2025)
