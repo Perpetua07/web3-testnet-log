@@ -10,7 +10,7 @@ Welcome to my personal log of Web3 airdrops, testnets, and dApp experiments. I'm
 ## ✅ Projects I've Participated In
 | Project        | Type       | Wallet Used        | Status        |
 |----------------|------------|--------------------|----------------|
-| CratD2C        | Testnet + Airdrop |0xA9257ae074De900c422A2c29173b1dB9795807Ad | Active         |
+| CratD2C        | Testnet + Airdrop |0xA9257ae074De900c422A2c29173b1dB9795807Ad | Completed     |
 | Peniwallet     | Testnet    | 0xA9257ae074De900c422A2c29173b1dB9795807Ad | Feedback submitted |
 | StarkNet       | Testnet    | 0xdBA7D859e551426d100A4baFDcF46f6BC509Ad3c | Joined         |
 | Base           | Airdrop    | 0xdBA7D859e551426d100A4baFDcF46f6BC509Ad3c | Completed      |
@@ -18,5 +18,4 @@ Welcome to my personal log of Web3 airdrops, testnets, and dApp experiments. I'm
 
 ## 🧪 Recent Activity
 - Submitted feedback to Peniwallet (April 2025)
-- Completed CratD2C onboarding tasks
 - Deployed dummy contract on Sepolia
